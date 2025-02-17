@@ -25,7 +25,7 @@
 
 ## Overview
 
-This project is a scalable, microservices-based streaming platform designed with cutting-edge technologies and best practices to deliver high performance and maintainability. The architecture leverages REST APIs, GraphQL, WebSocket, WebHook, RPC, and SOAP for diverse communication needs, supported by a robust DevOps pipeline and monitoring solutions.
+This project is a scalable video streaming platform based on microservices, designed with cutting-edge technologies and best practices to ensure high performance and ease of maintenance. The architecture relies on REST APIs for communication between services, enabling efficient and flexible integration. Its distributed design optimizes content delivery and visualization across multiple devices, ensuring a smooth and reliable user experience.
 
 ---
 
