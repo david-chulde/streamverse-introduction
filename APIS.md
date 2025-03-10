@@ -45,7 +45,8 @@
 12. **Servicio de Notificaciones (sv-ms-social-notification)**
     - Notificaciones push para nuevos videos, comentarios, y actividades.
     - Configuración de preferencias de notificación.
-
+??. **Servicio de Reportar un Comentario (sv-ms-social-report-comment)**
+   - Revisión de comentarios reportados.
 ### 4. Microservicios de Monetización (sv-ms-monetization) - (Python & Django)
 
 13. **Servicio de Pagos y Suscripciones Premium (sv-ms-monetization-payment)**
